@@ -1,4 +1,4 @@
-class Rdesktop < Formula
+class RdesktopMit < Formula
   desc "UNIX client for connecting to Windows Remote Desktop Services"
   homepage "https://github.com/rdesktop/rdesktop"
   url "https://github.com/rdesktop/rdesktop/releases/download/v1.9.0/rdesktop-1.9.0.tar.gz"
